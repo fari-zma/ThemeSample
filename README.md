@@ -1,5 +1,7 @@
 ## **ThemeSample**
-Choose between color themes. Change Light/Dark theme.
+> Transparent status-bar
+> Switch between Light/Dark mode
+> Choose different available color theme
 
 ## **Video**
 ![](src/video.gif)
