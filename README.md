@@ -1,5 +1,5 @@
 ## **ThemeSample**
-> Transparent status-bar
+#> Transparent status-bar
 > Switch between Light/Dark mode
 > Choose from available color themes
 
