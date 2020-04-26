@@ -1,6 +1,6 @@
 ## **ThemeSample**
-Transparent status-bar.
-Switch between Light/Dark mode.
+Transparent status-bar.<br>
+Switch between Light/Dark mode.<br>
 Choose from available color themes.
 
 ## **Video**
