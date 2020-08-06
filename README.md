@@ -8,3 +8,6 @@ Choose from available color themes.
 
 ## **Apk**
 [app-debug.apk](src/app-debug.apk?raw=true)
+
+## **License**
+Licensed under the [MIT License](LICENSE)
